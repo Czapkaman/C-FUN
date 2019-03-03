@@ -1,5 +1,7 @@
 # C-FUN
 
+Components of my game engine that I try to make.
+
 Links:
 
 https://glm.g-truc.net/ <- OpenGL Math library.
